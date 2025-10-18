@@ -21,3 +21,5 @@ information = {
 
 ## My activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmiry&show_icons=true&theme=dark)
+## conect me 
+<p> <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/Telegram-amirmiree-blue?style%20=flat&logo=telegram"></a></p>
