@@ -26,7 +26,8 @@ information = {
 
 ## `📞Contact Me`
 <p>
-<img src= "https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width = "50px" hight= "50px">
+ <a href = "https://t.me/amirmiree"><img src= "https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width = "50px" hight= "50px">
+ </a>
 <img src= "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = "50px" hight= "50px">
 <img src= "https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width = "50px" hight= "50px">
 <img src= "https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width = "50px" hight= "50px"></p>
