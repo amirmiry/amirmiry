@@ -1,16 +1,21 @@
- ## a little more about me  . . .
+## Hi there 👋
+## a little more about me  . . .
 <!-- <img src ="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> -->
-## Who am I ?
 ```python
 information = {
 "FName": "amirhossein miri",
 "NickName": "amir",
 "age": 19,
 "Edu": "Computer Engnireeng"
-"Fav": "Codding "
+"Fav": "I code better with music 🎧"
+"My debug ritual": "Coffee + Late night coding ☕ "
 }
 ```
  <p  align="center"><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width ="500px" hight = "300px"></p>
+
+                                   “Code is like humor. When you have to explain it, it’s bad.”
+> — `Cory House`
+
 
 <h2 align= "center">💻Tech Stack </h2>
 
@@ -23,7 +28,16 @@ information = {
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## `📞Contact Me`
+## 🌱 **Currently Learning**
+- TypeScript
+- React
+- RESTful APIs
+
+## 🚀 **Featured Projects**
+
+<br>
+
+## Contact Me
 <p>
  <a href = "https://t.me/amirmiree"><img src= "https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width = "50px" hight= "50px">
  </a>
@@ -35,12 +49,9 @@ information = {
 
 
 
-## My activity
-<p>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<a href = "github.com/amirmiry" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)<a/>
-</p>
+## 📊 My activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmiry&show_icons=true&theme=radical)
+
 
 
 
