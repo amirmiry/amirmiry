@@ -49,9 +49,9 @@ information = {
  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/Telegram-amirmiree-blue?style%20=flat&logo=telegram"></a>
  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/whatsapp-amir-blue?logo=whatsapp"></a>
   <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/instagram-amirmiri-red?logo=instagram"></a>
-
-
-
+<!--- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+--->
 ## 📊 My activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmiry&show_icons=true&theme=radical)
 
