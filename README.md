@@ -43,9 +43,12 @@ information = {
  </a>
 <img src= "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = "50px" hight= "50px">
 <img src= "https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width = "50px" hight= "50px">
-<img src= "https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width = "50px" hight= "50px"></p>
+<img src= "https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width = "50px" hight= "50px">
+</p>
 
  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/Telegram-amirmiree-blue?style%20=flat&logo=telegram"></a>
+ <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/whatsapp-amir-blue?logo=whatsapp"></a>
+  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/instagram-amirmiri-red?logo=instagram"></a>
 
 
 
