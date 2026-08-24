@@ -1,19 +1,9 @@
-## Hi there 👋
+## Hi I'm Amir 👋
 ## a little more about me  . . .
 <!-- <img src ="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> -->
-```python
-information = {
-"FName": "amirhossein miri",
-"NickName": "amir",
-"age": 19,
-"Edu": "Computer Engnireeng"
-"Fav": "I code better with music 🎧"
-"My debug ritual": "Coffee + Late night coding ☕ "
-}
-```
- <p  align="center"><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width ="500px" hight = "300px"></p>
 
-                                   “Code is like humor. When you have to explain it, it’s bad.”
+
+“Code is like humor. When you have to explain it, it’s bad.”
 > — `Cory House`
 
 
