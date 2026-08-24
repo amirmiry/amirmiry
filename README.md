@@ -1,49 +1,53 @@
 ## Hi I'm Amir 👋
-## a little more about me  . . .
-<!-- <img src ="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> -->
-
+--
+I'm a Computer Engineering student with a strong interest in Software Development, Backend Development, and Technology.
+Currently, I'm focusing on improving my programming skills and building practical projects using Python and Django
 
 “Code is like humor. When you have to explain it, it’s bad.”
 > — `Cory House`
 
 
-<h2 align= "center">💻Tech Stack </h2>
+<h2>💻Technologies & Tools </h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<br>
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌱 **Currently Learning**
-- TypeScript
-- React
-- RESTful APIs
+## 🚀 What I'm Currently Learning
+#### I'm currently expanding my knowledge in:
+Backend Development
+<br>
+Django
+<br>
+Databases
+<br>
+Web Development
+<br>
+Software Engineering
+
 
 ## 🚀 **Featured Projects**
 
 <br>
 
 ## Contact Me
-<p>
- <a href = "https://t.me/amirmiree"><img src= "https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width = "50px" hight= "50px">
- </a>
-<img src= "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = "50px" hight= "50px">
-<img src= "https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width = "50px" hight= "50px">
-<img src= "https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width = "50px" hight= "50px">
-</p>
-
+#### 📫 Connect With Me
+Feel free to explore my repositories and follow my journey as I continue learning and building new projects!
+<br>
  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/Telegram-amirmiree-blue?style%20=flat&logo=telegram"></a>
  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/whatsapp-amir-blue?logo=whatsapp"></a>
-  <a href= "https:\\t.me\amirmiree"> <img src= "https://img.shields.io/badge/instagram-amirmiri-red?logo=instagram"></a>
-<!--- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
---->
-## 📊 My activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmiry&show_icons=true&theme=radical)
 
 
 
